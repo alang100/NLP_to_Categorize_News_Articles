@@ -4,6 +4,6 @@ This is my final AIT (Artificial Intelligence Techniques) Project which was NLP 
 
 1. The final report.
 2. The final presentation.
-3. The code and the PDF for the final report.
-4. The code and the PDF for the undersampling evaluation.
-5. The code and the PDF for the Midsemester baseline.
+3. The code for the final report.
+4. The code for the undersampling evaluation.
+5. The code for the Midsemester baseline.
