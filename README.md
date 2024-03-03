@@ -2,8 +2,8 @@
 
 This is my final AIT (Artificial Intelligence Techniques) Project which was NLP (Natural Language Processing) classification using the HuffPost dataset in Kaggle. Included are the following files:
 
-1. My final report.
-2. My final presentation.
+1. The final report.
+2. The final presentation.
 3. The code and the PDF for the final report.
 4. The code and the PDF for the undersampling evaluation.
 5. The code and the PDF for the Midsemester baseline.
