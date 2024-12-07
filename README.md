@@ -9,7 +9,7 @@ This is my final AIT (Artificial Intelligence Techniques) Project which was NLP 
 5. [The code for the Midsemester baseline](NLP_Project_Midsemester.ipynb)
 
 
-Below are extracts from the final report for a quick repference of the project and results. Refer to the final report for more details.
+Below are extracts from the final report for a quick reference of the project and results. Refer to the final report for more details.
 
 ### Abstract
 We live in a digital age, in which vast quantities of news and other content can be accessed and consumed online. Accurately categorizing all this content and recommending
