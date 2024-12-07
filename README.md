@@ -79,7 +79,7 @@ architectures to improve the news article classification accuracy.
 
 
 ### Example of Results
-Figure 17 shows a sample of the true and predicted labels and the ‘processed_combined_info’
+Figure 1 shows a sample of the true and predicted labels and the ‘processed_combined_info’
 column which was vectorized before machine learning. Stemming was chosen as a preprocessing
 step, so some words appear strange when reduced to their stems. In most cases in
 this example, the model predicted the correct category. In the mispredicted labels, reading
@@ -97,6 +97,11 @@ and descriptions correctly. Considering these examples, I would consider a class
 accuracy of over 69% to be a good result. Undoubtedly reading the full article would have
 helped enormously in providing more accurate context, which would result in higher classification
 accuracy.
+
+<p align="center">
+  <img src="Figure_1.png" alt="Figure 1 – Sample Output of True and Predicted Labels" />
+</p>
+<p align="center"><b>Figure 1</b></p>
 
 ### Conclusion
 This was a comprehensive natural language processing project, in which several techniques
