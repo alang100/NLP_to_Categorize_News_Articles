@@ -99,9 +99,9 @@ helped enormously in providing more accurate context, which would result in high
 accuracy.
 
 <p align="center">
-  <img src="Figure_1.png" alt="Figure 1 – Sample Output of True and Predicted Labels" />
+  <img src="Figure_1.png" alt="Figure 1" />
 </p>
-<p align="center"><b>Figure 1</b></p>
+<p align="center"><b>Figure 1 – Sample Output of True and Predicted Labels</b></p>
 
 ### Conclusion
 This was a comprehensive natural language processing project, in which several techniques
