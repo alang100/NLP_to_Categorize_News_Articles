@@ -11,6 +11,8 @@ This is my final AIT (Artificial Intelligence Techniques) Project which was NLP 
 HTML files of the code are also available for download in this repository.  
 Below are extracts from the final report for a quick reference of the project and results. Refer to the final report for more details.
 
+---
+
 ### Abstract
 We live in a digital age, in which vast quantities of news and other content can be accessed and consumed online. Accurately categorizing all this content and recommending
 it to online users is a difficult challenge. In the past decade, Natural Language Processing (NLP) techniques have become necessary to classify online articles, based on their
@@ -38,6 +40,7 @@ which is a significant improvement over the baseline of 60.5%. This project has 
 feature engineering and data preparation play an even more important role in improving
 classification accuracy.
 
+---
 
 ### Introduction
 In the digital age of today, vast quantities of updated information and news are available to
@@ -77,6 +80,7 @@ identified several advanced algorithms that can be used in topic modelling. This
 and the previous will be used and refined testing various of these more advanced model
 architectures to improve the news article classification accuracy.
 
+---
 
 ### Example of Results
 Figure 1 shows a sample of the true and predicted labels and the ‘processed_combined_info’
@@ -106,6 +110,8 @@ accuracy.
   <img src="Figure_1.png" alt="Figure 1" />
 </p>
 <p align="center"><b>Figure 1 – Sample Output of True and Predicted Labels</b></p>
+
+---
 
 ### Conclusion
 This was a comprehensive natural language processing project, in which several techniques
