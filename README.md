@@ -12,7 +12,6 @@ This is my final AIT (Artificial Intelligence Techniques) Project which was NLP 
 Below are extracts from the final report for a quick repference of the project and results. Refer to the final report for more details.
 
 ### Abstract
-
 We live in a digital age, in which vast quantities of news and other content can be accessed and consumed online. Accurately categorizing all this content and recommending
 it to online users is a difficult challenge. In the past decade, Natural Language Processing (NLP) techniques have become necessary to classify online articles, based on their
 content.
@@ -41,7 +40,6 @@ classification accuracy.
 
 
 ### Introduction
-
 In the digital age of today, vast quantities of updated information and news are available to
 us constantly. For someone interested in reading the latest developments or researching past
 articles on a particular topic, the news article must first be categorized so that it can easily be
@@ -80,8 +78,27 @@ and the previous will be used and refined testing various of these more advanced
 architectures to improve the news article classification accuracy.
 
 
-### Conclusion
+### Example of Results
+Figure 17 shows a sample of the true and predicted labels and the ‘processed_combined_info’
+column which was vectorized before machine learning. Stemming was chosen as a preprocessing
+step, so some words appear strange when reduced to their stems. In most cases in
+this example, the model predicted the correct category. In the mispredicted labels, reading
+them and making sense of the text, it can be easy to see why some labels were mispredicted.
+**Row 2:** Crime was mispredicted as Weird News, likely due to a woman being bitten by a
+shark. This seems like something weird and not a crime.
+**Row 5:** The true label of Weird News can easily be confused with Sports because of the
+words football, sport and touchdown.
+**Row 7:** Also, Wellness was classified as Science and it can easily be seen why as the Nobel
+prize for medicine is mentioned.
+**Row 9:** The example ofWorld News being predicted as Entertainment is clearly a bad classification.
+This is likely due to the words ‘Russian spy” often being a popular theme in movies.
+These examples highlight the difficulty even for humans to categorize the brief headlines
+and descriptions correctly. Considering these examples, I would consider a classification
+accuracy of over 69% to be a good result. Undoubtedly reading the full article would have
+helped enormously in providing more accurate context, which would result in higher classification
+accuracy.
 
+### Conclusion
 This was a comprehensive natural language processing project, in which several techniques
 of data preparation, data preprocessing and machine learning were evaluated and tested to
 produce a comprehensive report and gain a better understanding of all important aspects involved
