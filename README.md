@@ -8,7 +8,7 @@ This is my final AIT (Artificial Intelligence Techniques) Project which was NLP 
 4. [The code for the undersampling evaluation](NLP%20Undersampling%20Evaluation%20Code.ipynb)
 5. [The code for the Midsemester baseline](NLP_Project_Midsemester.ipynb)
 
-
+HTML files of the code are also available for download in this repository. 
 Below are extracts from the final report for a quick reference of the project and results. Refer to the final report for more details.
 
 ### Abstract
