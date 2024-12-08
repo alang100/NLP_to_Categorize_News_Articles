@@ -1,4 +1,4 @@
-# NLP_to_Categorize_News_Articles
+# Natural Language Processing to Categorize News Articles
 
 This is my final AIT (Artificial Intelligence Techniques) Project which was NLP (Natural Language Processing) classification using the HuffPost dataset in Kaggle. Included are the following files:
 
