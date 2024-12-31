@@ -7,7 +7,7 @@ This is my final AIT (Artificial Intelligence Techniques) Project which was NLP 
 - [The Jupyter Notebook version of the final report](NLP%20Final%20Project%20Code.ipynb)
 - [The HTML version of the final report](AIT%20Final%20Project%20Code.html)
 - [The Jupyter Notebook version of the undersampling evaluation](NLP%20Undersampling%20Evaluation%20Code.ipynb)
-- [The HTML version of the undersampling evaluation](NLP%20Undersampling%20Evaluation%20Code.html)
+- [The HTML version of the undersampling evaluation](AIT%20Undersampling%20Evaluation.html)
 - [The Jupyter Notebook version of the Midsemester baseline](NLP_Project_Midsemester.ipynb)
 - [The HTML version of the Midsemester baseline](NLP_Project_Midsemester.html)
 
