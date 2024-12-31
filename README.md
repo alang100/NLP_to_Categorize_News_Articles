@@ -2,13 +2,17 @@
 
 This is my final AIT (Artificial Intelligence Techniques) Project which was NLP (Natural Language Processing) classification using the HuffPost dataset in Kaggle. Included are the following files:
 
-1. [The final report](NLP%20Final%20Project%20Report.pdf)
-2. [The final presentation](NLP%20Final%20Presentation.pdf)
-3. [The code for the final report](NLP%20Final%20Project%20Code.ipynb)
-4. [The code for the undersampling evaluation](NLP%20Undersampling%20Evaluation%20Code.ipynb)
-5. [The code for the Midsemester baseline](NLP_Project_Midsemester.ipynb)
+- [The final report](NLP%20Final%20Project%20Report.pdf)
+- [The final presentation](NLP%20Final%20Presentation.pdf)
+- [The Jupyter Notebook version of the final report](NLP%20Final%20Project%20Code.ipynb)
+- [The HTML version of the final report](NLP%20Final%20Project%20Code.html)
+- [The Jupyter Notebook version of the undersampling evaluation](NLP%20Undersampling%20Evaluation%20Code.ipynb)
+- [The HTML version of the undersampling evaluation](NLP%20Undersampling%20Evaluation%20Code.html)
+- [The Jupyter Notebook version of the Midsemester baseline](NLP_Project_Midsemester.ipynb)
+- [The HTML version of the Midsemester baseline](NLP_Project_Midsemester.html)
 
-HTML files of the code are also available for download in this repository.  
+*Note: To download a file, click the link and then use the download button on the top right of the GitHub interface.*
+
 Below are extracts from the final report for a quick reference of the project and results. Refer to the final report for more details.
 
 ---
